@@ -1,0 +1,774 @@
+2025-03-15 13:24:36,142 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 13:24:36,143 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 13:24:39,017 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 13:24:39,672 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 13:24:44,898 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 13:24:44,914 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 13:24:45,867 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 13:24:45,874 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 13:24:46,035 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 13:24:47,103 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 13:24:47,105 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 13:24:50,169 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 13:24:50,797 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 13:24:56,016 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 13:24:56,032 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 13:24:56,894 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 13:24:56,903 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 13:24:57,066 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 13:24:58,187 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 13:24:58,188 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 13:25:01,037 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 13:25:01,681 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 13:25:06,941 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 13:25:06,941 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 13:25:07,811 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 13:25:07,816 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 13:25:07,966 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 13:25:08,983 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 13:25:08,985 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 13:25:11,689 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 13:25:12,324 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 13:25:17,539 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 13:25:17,539 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 13:25:18,411 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 13:25:19,468 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 13:25:22,929 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 13:25:23,086 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 13:25:25,125 - CucumberBddPractice -INFO -*****  Admin User Details Added Successfully!!!!!!!!!  ********
+2025-03-15 13:25:25,326 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 13:25:26,376 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 13:25:26,378 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 13:25:29,239 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 13:25:29,878 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 13:25:35,104 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 13:25:35,120 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 13:25:36,517 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 13:25:36,672 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 13:25:38,720 - CucumberBddPractice -INFO -*****  Admin User Details Fetteched Successfully!!!!!!!!!  ********
+2025-03-15 13:25:38,906 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:02:55,139 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:02:55,149 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:02:58,377 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:02:58,992 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:03:05,676 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:03:05,683 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:03:06,715 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 15:03:07,944 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 15:03:12,010 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 15:03:12,263 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 15:03:14,308 - CucumberBddPractice -INFO -*****  Admin User Details Added Successfully!!!!!!!!!  ********
+2025-03-15 15:03:15,109 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:03:18,278 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:03:18,278 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:03:21,502 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:03:22,063 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:03:28,846 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:03:28,851 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:03:30,397 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 15:03:30,651 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 15:04:34,713 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:04:34,719 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:04:37,874 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:04:38,476 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:04:45,390 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:04:45,395 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:04:46,396 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 15:04:47,593 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 15:04:51,694 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 15:04:51,948 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 15:04:57,948 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:04:57,958 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:05:01,186 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:05:01,886 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:05:09,213 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:05:09,223 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:05:10,869 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 15:05:11,101 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 15:07:43,770 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:07:43,778 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:10:28,991 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:10:29,002 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:10:31,509 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:10:32,218 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:10:38,624 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:10:38,640 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:10:39,507 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 15:10:40,565 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 15:10:43,993 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 15:10:44,079 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 15:10:46,012 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:10:46,015 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:10:46,110 - CucumberBddPractice -INFO -*****  Admin User Details Added Successfully!!!!!!!!!  ********
+2025-03-15 15:10:47,429 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:10:48,593 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:10:48,598 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:10:48,914 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:10:49,598 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:10:51,634 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:10:52,293 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:10:54,920 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:10:54,935 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:10:56,466 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 15:10:56,540 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 15:10:57,613 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:10:57,629 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:10:58,608 - CucumberBddPractice -INFO -*****  Admin User Details Fetteched Successfully!!!!!!!!!  ********
+2025-03-15 15:10:58,806 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:10:59,140 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 15:10:59,350 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 15:11:01,402 - CucumberBddPractice -INFO -*****  Admin User Details Fetteched Successfully!!!!!!!!!  ********
+2025-03-15 15:11:02,720 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:22:32,302 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:22:32,309 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:22:35,221 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:24:28,838 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:24:28,844 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:24:31,891 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:26:43,429 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:26:43,443 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:26:46,237 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:29:06,030 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:29:06,037 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:29:09,383 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:29:15,734 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:29:15,739 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:29:18,225 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:29:24,653 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:29:24,654 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:29:27,487 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:29:33,857 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:29:33,861 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:29:35,148 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:34:48,954 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:34:48,954 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:34:51,425 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:34:52,083 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:34:57,364 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:34:57,374 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:34:58,833 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 15:34:58,840 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 15:34:58,989 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:35:00,011 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:35:00,016 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:35:02,404 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:35:03,048 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:35:08,273 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:35:08,281 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:35:09,140 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 15:35:09,148 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 15:35:09,369 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:35:10,403 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:35:10,405 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:35:12,817 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:35:13,445 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:35:19,679 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:35:19,680 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:35:20,704 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:36:26,489 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:36:26,498 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:36:29,343 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:36:29,995 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:36:35,260 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:36:35,269 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:36:36,078 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 15:36:37,102 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 15:36:40,590 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 15:36:40,692 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 15:36:42,756 - CucumberBddPractice -INFO -*****  Admin User Details Added Successfully!!!!!!!!!  ********
+2025-03-15 15:36:42,932 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:43:56,217 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:43:56,217 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:43:59,331 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:43:59,974 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:44:05,228 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:44:05,237 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:44:06,595 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 15:44:06,603 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 15:44:06,793 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:44:07,881 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:44:07,886 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:44:10,265 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:44:10,909 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:44:16,142 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:44:16,151 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:44:17,516 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 15:44:17,524 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 15:44:17,691 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:44:18,732 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:44:18,734 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:44:21,176 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:44:21,798 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:44:27,072 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:44:27,081 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:44:28,498 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 15:44:28,505 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 15:44:28,659 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:44:29,661 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:44:29,663 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:44:32,338 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:44:32,973 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:44:38,214 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:44:38,223 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:44:39,070 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 15:44:40,074 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 15:44:43,611 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 15:44:43,742 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 15:44:45,773 - CucumberBddPractice -INFO -*****  Admin User Details Added Successfully!!!!!!!!!  ********
+2025-03-15 15:44:45,969 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:44:47,123 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:44:47,125 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:44:49,511 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:44:50,151 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:44:55,375 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:44:55,383 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:44:57,020 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 15:44:57,152 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 15:49:12,234 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:49:12,241 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:49:15,110 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:49:15,800 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:49:21,045 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:49:21,054 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:49:21,921 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 15:49:21,930 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 15:49:22,097 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:49:23,143 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:49:23,147 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:49:26,100 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:49:26,737 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:49:31,989 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:49:31,998 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:49:33,438 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 15:49:33,446 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 15:49:33,615 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:49:34,598 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:49:34,599 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:49:37,459 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:49:38,098 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:49:43,368 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:49:43,376 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:49:44,749 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 15:49:44,767 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 15:49:46,485 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:49:47,536 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:49:47,537 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:49:50,293 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:49:50,944 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:49:56,159 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:49:56,167 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:49:56,958 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 15:49:57,975 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 15:50:01,352 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 15:50:01,438 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 15:50:03,486 - CucumberBddPractice -INFO -*****  Admin User Details Added Successfully!!!!!!!!!  ********
+2025-03-15 15:50:03,658 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:50:04,644 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:50:04,646 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:50:07,025 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:50:07,657 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:50:12,887 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:50:12,897 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:50:14,345 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 15:50:14,439 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 15:50:16,515 - CucumberBddPractice -INFO -*****  Admin User Details Fetteched Successfully!!!!!!!!!  ********
+2025-03-15 15:50:16,832 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:58:41,087 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:58:41,108 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:58:44,170 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:58:44,986 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:59:47,912 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:59:47,954 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 15:59:50,863 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 15:59:51,580 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 15:59:56,905 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 15:59:56,905 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 15:59:57,847 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 15:59:57,854 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 15:59:58,043 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 15:59:59,126 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 15:59:59,131 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:00:01,993 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:00:02,634 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:00:07,907 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:00:07,907 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:00:08,887 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:00:08,893 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:00:09,048 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:00:10,108 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:00:10,110 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:00:12,717 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:00:13,342 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:00:18,583 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:00:18,589 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:00:20,036 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:00:20,052 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:00:20,241 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:00:21,309 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:00:21,310 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:00:24,648 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:00:25,269 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:00:30,534 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:00:30,534 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:00:31,384 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 16:00:32,397 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 16:00:35,826 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 16:00:35,914 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 16:00:37,954 - CucumberBddPractice -INFO -*****  Admin User Details Added Successfully!!!!!!!!!  ********
+2025-03-15 16:00:38,114 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:00:39,141 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:00:39,142 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:00:42,097 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:00:42,727 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:00:47,934 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:00:47,934 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:00:49,354 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 16:00:49,481 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 16:02:52,543 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:02:52,549 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:02:55,407 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:02:56,053 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:03:01,287 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:03:01,303 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:03:02,664 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:03:02,672 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:03:02,844 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:03:03,961 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:03:03,965 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:03:06,890 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:03:07,525 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:03:12,767 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:03:12,767 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:03:14,166 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:03:14,174 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:03:14,330 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:03:15,384 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:03:15,384 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:03:18,905 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:03:19,535 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:03:24,793 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:03:24,793 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:03:26,222 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:03:26,228 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:03:26,386 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:03:27,364 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:03:27,365 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:03:30,258 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:03:30,888 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:03:36,107 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:03:36,113 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:03:36,953 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 16:03:37,965 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 16:03:41,432 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 16:03:41,536 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 16:03:43,580 - CucumberBddPractice -INFO -*****  Admin User Details Added Successfully!!!!!!!!!  ********
+2025-03-15 16:03:43,784 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:03:44,825 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:03:44,826 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:03:47,207 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:03:47,830 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:03:53,059 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:03:53,059 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:03:54,546 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 16:03:54,662 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 16:03:56,736 - CucumberBddPractice -INFO -*****  Admin User Details Fetteched Successfully!!!!!!!!!  ********
+2025-03-15 16:03:56,888 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:05:29,762 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:05:29,767 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:05:32,775 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:05:33,455 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:05:38,747 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:05:38,747 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:05:40,128 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:05:40,137 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:05:40,326 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:05:41,382 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:05:41,386 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:05:44,536 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:05:45,165 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:05:50,417 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:05:50,436 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:05:51,353 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:05:51,359 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:05:51,508 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:05:52,561 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:05:52,562 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:05:55,453 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:05:56,081 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:06:02,460 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:06:02,460 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:06:03,875 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:06:03,883 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:06:04,049 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:06:05,198 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:06:05,199 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:06:08,074 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:06:08,699 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:06:13,934 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:06:13,941 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:06:14,932 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 16:06:15,995 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 16:06:19,529 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 16:06:19,628 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 16:06:21,671 - CucumberBddPractice -INFO -*****  Admin User Details Added Successfully!!!!!!!!!  ********
+2025-03-15 16:06:21,867 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:06:23,060 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:06:23,062 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:06:25,876 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:06:26,516 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:06:31,743 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:06:31,750 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:06:33,225 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 16:06:33,326 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 16:06:35,389 - CucumberBddPractice -INFO -*****  Admin User Details Fetteched Successfully!!!!!!!!!  ********
+2025-03-15 16:06:35,578 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:11:57,119 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:11:57,119 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:11:59,599 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:12:00,236 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:12:05,515 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:12:05,515 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:12:06,899 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:12:06,906 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:12:07,082 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:12:08,253 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:12:08,253 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:12:11,131 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:12:11,772 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:12:17,023 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:12:17,036 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:12:17,919 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:12:17,934 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:12:18,108 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:12:19,150 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:12:19,150 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:12:22,129 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:12:22,769 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:12:28,004 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:12:28,011 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:12:29,404 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:12:29,410 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:12:29,585 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:12:30,692 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:12:30,693 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:12:33,504 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:12:34,130 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:12:39,338 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:12:39,354 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:12:40,178 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 16:12:41,209 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 16:12:44,656 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 16:12:44,777 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 16:12:46,845 - CucumberBddPractice -INFO -*****  Admin User Details Added Successfully!!!!!!!!!  ********
+2025-03-15 16:12:47,001 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:12:48,025 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:12:48,026 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:12:50,443 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:12:51,078 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:12:56,325 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:12:56,326 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:12:57,775 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 16:12:57,867 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 16:12:59,924 - CucumberBddPractice -INFO -*****  Admin User Details Fetteched Successfully!!!!!!!!!  ********
+2025-03-15 16:13:00,098 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:20:23,870 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:20:23,885 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:20:26,377 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:20:27,030 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:20:32,286 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:20:32,302 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:20:33,165 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:20:33,175 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:20:33,344 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:20:34,406 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:20:34,412 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:20:37,396 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:20:38,033 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:20:43,261 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:20:43,277 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:20:45,168 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:20:45,178 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:20:46,878 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:20:47,953 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:20:47,953 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:20:50,661 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:20:51,306 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:20:56,548 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:20:56,563 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:20:57,461 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:20:57,469 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:20:57,621 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:20:58,720 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:20:58,723 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:21:01,567 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:21:02,195 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:21:07,440 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:21:07,456 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:21:08,318 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 16:21:09,357 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 16:21:12,763 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 16:21:12,854 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 16:21:16,099 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:21:16,100 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:21:18,587 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:21:19,212 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:21:24,452 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:21:24,452 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:21:25,933 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 16:21:26,010 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 16:21:28,085 - CucumberBddPractice -INFO -*****  Admin User Details Fetteched Successfully!!!!!!!!!  ********
+2025-03-15 16:21:29,796 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:24:15,518 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:24:15,529 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:24:18,792 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:24:19,444 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:24:24,705 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:24:24,705 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:24:26,147 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:24:26,154 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:24:26,314 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:24:27,416 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:24:27,420 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:24:30,408 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:24:31,040 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:24:36,303 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:24:36,303 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:24:37,185 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:24:37,193 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:24:37,334 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:24:38,435 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:24:38,436 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:24:41,088 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:24:41,725 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:24:46,950 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:24:46,950 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:24:48,344 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:24:48,351 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:24:48,494 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:24:49,534 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:24:49,534 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:24:52,377 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:24:53,000 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:24:58,269 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:24:58,269 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:24:59,126 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 16:25:00,170 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 16:25:03,651 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 16:25:03,770 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 16:25:06,892 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:25:06,893 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:25:09,787 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:25:10,423 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:25:15,648 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:25:15,653 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:25:17,064 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 16:25:17,216 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 16:25:19,283 - CucumberBddPractice -INFO -*****  Admin User Details Fetteched Successfully!!!!!!!!!  ********
+2025-03-15 16:25:19,472 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:34:47,673 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:34:47,681 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:34:50,826 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:34:51,490 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:34:56,858 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:34:56,867 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:34:58,346 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:34:58,353 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:34:58,546 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:34:59,620 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:34:59,621 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:35:02,199 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:35:02,821 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:35:08,062 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:35:08,062 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:35:08,971 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:35:08,978 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:35:09,145 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:35:10,306 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:35:10,308 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:35:13,162 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:35:13,787 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:35:19,068 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:35:19,068 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:35:19,924 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:35:19,930 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:35:20,076 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:35:21,161 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:35:21,162 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:35:24,375 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:35:24,996 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:35:30,241 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:35:30,249 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:35:31,096 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 16:35:32,104 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 16:35:35,558 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 16:35:35,646 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 16:35:37,771 - CucumberBddPractice -INFO -*****  Admin User Details Added Successfully!!!!!!!!!  ********
+2025-03-15 16:35:37,943 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:35:39,066 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:35:39,068 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:35:41,978 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:35:42,600 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:35:47,872 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:35:47,879 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:35:49,332 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 16:35:49,419 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 16:35:51,483 - CucumberBddPractice -INFO -*****  Admin User Details Fetteched Successfully!!!!!!!!!  ********
+2025-03-15 16:35:51,636 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:56:07,648 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:56:07,666 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:56:10,822 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:56:11,484 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:56:16,704 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:56:16,713 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:56:18,132 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:56:18,139 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:56:18,246 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:56:19,204 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:56:19,209 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:56:21,724 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:56:22,349 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:56:27,588 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:56:27,596 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:56:28,951 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:56:28,958 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:56:29,055 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:56:29,941 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:56:29,943 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:56:32,328 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:56:32,955 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:56:38,231 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:56:38,238 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:56:39,579 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 16:56:39,585 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 16:56:39,692 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:56:40,609 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:56:40,610 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:56:43,186 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:56:43,810 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:56:49,046 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:56:49,053 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:56:49,838 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 16:56:50,831 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 16:56:54,200 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 16:56:54,308 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 16:56:55,906 - CucumberBddPractice -INFO -*****  Admin User Details Added Successfully!!!!!!!!!  ********
+2025-03-15 16:56:56,024 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 16:56:56,925 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 16:56:56,925 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 16:56:59,702 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 16:57:00,349 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 16:57:05,576 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 16:57:05,583 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 16:57:07,031 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 16:57:07,112 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 16:57:09,179 - CucumberBddPractice -INFO -*****  Admin User Details Fetteched Successfully!!!!!!!!!  ********
+2025-03-15 16:57:09,295 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 17:00:03,854 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 17:00:03,859 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 17:00:06,735 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 17:00:07,369 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 17:00:12,601 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 17:00:12,608 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 17:00:13,965 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 17:00:13,972 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 17:00:14,090 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 17:00:15,059 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 17:00:15,064 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 17:00:17,998 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 17:00:18,643 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 17:00:23,873 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 17:00:23,882 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 17:00:24,716 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 17:00:24,723 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 17:00:24,822 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 17:00:25,752 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 17:00:25,753 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 17:00:28,113 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 17:00:28,740 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 17:00:33,978 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 17:00:33,985 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 17:00:35,355 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 17:00:35,361 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 17:00:35,498 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 17:00:36,443 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 17:00:36,444 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 17:00:38,842 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 17:00:39,455 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 17:00:44,708 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 17:00:44,717 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 17:00:45,562 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 17:01:44,532 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 17:01:44,547 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 17:01:47,872 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 17:01:48,556 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 17:01:53,819 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 17:01:53,827 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 17:01:55,194 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 17:01:55,203 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 17:01:55,380 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 17:01:56,462 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 17:01:56,467 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 17:01:59,283 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 17:01:59,953 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 17:02:05,213 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 17:02:05,229 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 17:02:06,138 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 17:02:06,144 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 17:02:06,301 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 17:02:07,414 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 17:02:07,416 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 17:02:10,082 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 17:02:10,718 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 17:04:08,322 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 17:04:08,327 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 17:04:10,748 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 17:04:11,398 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 17:12:46,216 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 17:12:46,224 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 17:12:48,652 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 17:12:49,324 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 17:12:54,605 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 17:12:54,614 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 17:12:55,973 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 17:12:55,980 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 17:12:56,074 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 17:12:57,181 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 17:12:57,183 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 17:12:59,978 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 17:13:00,630 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 17:13:05,855 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 17:13:05,863 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 17:13:07,250 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 17:13:07,257 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 17:13:07,343 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 17:13:08,245 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 17:13:08,246 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 17:13:11,061 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 17:13:11,686 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 17:13:16,892 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 17:13:16,900 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 17:13:18,308 - CucumberBddPractice -INFO -***** Logged Out Successfully  ********
+2025-03-15 17:13:18,313 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login ******
+2025-03-15 17:13:18,424 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 17:13:19,364 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 17:13:19,365 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 17:13:22,207 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 17:13:22,858 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 17:13:28,090 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 17:13:28,097 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 17:13:28,881 - CucumberBddPractice -INFO -***** Clicking on Admin Page  ********
+2025-03-15 17:13:29,887 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser ******
+2025-03-15 17:13:33,256 - CucumberBddPractice -INFO -***** Entered Admin User Details !!!!!!!!!  ********
+2025-03-15 17:13:33,328 - CucumberBddPractice -INFO -***** Submitted Admin User Details !!!!!!!!!  ********
+2025-03-15 17:13:35,478 - CucumberBddPractice -INFO -*****  Admin User Details Added Successfully!!!!!!!!!  ********
+2025-03-15 17:13:35,609 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 17:13:36,490 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 17:13:36,490 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 17:13:39,413 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 17:13:40,027 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 17:13:45,276 - CucumberBddPractice -INFO -***** Login Successful With Valid Credentials  ********
+2025-03-15 17:13:45,283 - CucumberBddPractice -INFO -***** Current URL is : https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index ******
+2025-03-15 17:13:46,756 - CucumberBddPractice -INFO -***** Searching a Admin User Details !!!!!!!!!  ********
+2025-03-15 17:13:46,837 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
+2025-03-15 17:13:48,880 - CucumberBddPractice -INFO -*****  Admin User Details Fetteched Successfully!!!!!!!!!  ********
+2025-03-15 17:13:48,994 - CucumberBddPractice -INFO -***** Driver Closed  ********

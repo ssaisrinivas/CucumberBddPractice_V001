@@ -772,3 +772,14 @@
 2025-03-15 17:13:46,837 - CucumberBddPractice -INFO -***** Searching a Admin User Details Click !!!!!!!!!  ********
 2025-03-15 17:13:48,880 - CucumberBddPractice -INFO -*****  Admin User Details Fetteched Successfully!!!!!!!!!  ********
 2025-03-15 17:13:48,994 - CucumberBddPractice -INFO -***** Driver Closed  ********
+2025-03-15 18:53:14,872 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 18:53:14,897 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 18:53:17,489 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 18:53:18,148 - CucumberBddPractice -INFO -***** Entering Password ******
+2025-03-15 18:53:24,600 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 18:53:24,613 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 18:53:25,669 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 18:55:43,464 - CucumberBddPractice -INFO -***** Launching Browser ******
+2025-03-15 18:55:43,493 - CucumberBddPractice -INFO -***** Launching URL ******
+2025-03-15 18:55:46,864 - CucumberBddPractice -INFO -***** Entering UserName ******
+2025-03-15 18:55:47,540 - CucumberBddPractice -INFO -***** Entering Password ******

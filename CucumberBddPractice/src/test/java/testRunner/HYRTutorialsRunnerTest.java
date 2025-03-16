@@ -10,6 +10,6 @@ import io.cucumber.junit.CucumberOptions;
 	"D:\\Eclipse-23-24\\CucumberBddPractice\\Features\\HYR_Tutorials.feature" }, glue = "stepDefinitions", plugin = {
 		"pretty", "html:test-outputs.html" }, monochrome = true, dryRun = false)
 //, tags = "@sanity"
-public class HYR_Tutorials_TestRunner {
+public class HYRTutorialsRunnerTest {
 
 }

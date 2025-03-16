@@ -6,9 +6,19 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = { "D:\\Eclipse-23-24\\CucumberBddPractice\\Features\\OrangeHrmAdminUsers.feature",
-	"D:\\Eclipse-23-24\\CucumberBddPractice\\Features\\HYR_Tutorials.feature" }, glue = "stepDefinitions", plugin = {
-		"pretty", "html:test-outputs.html" }, monochrome = true, dryRun = false)
+@CucumberOptions(features = {
+	"C:\\Users\\ssais\\git\\CucumberBddPractice_V001\\CucumberBddPractice\\src\\test\\resources\\Features\\OrangeHrmAdminUsers.feature",
+	"C:\\Users\\ssais\\git\\CucumberBddPractice_V001\\CucumberBddPractice\\src\\test\\resources\\Features\\HYR_Tutorials.feature",
+	"C:\\Users\\ssais\\git\\CucumberBddPractice_V001\\CucumberBddPractice\\src\\test\\resources\\Features\\DataTableExample.feature" }, glue = {
+		"stepDefinitions", "hookes" },
+
+	plugin = { "pretty",
+
+		"html:test-outputs.html", "json:test-outputs.json", "junit:test-outputs.xml"
+
+	}
+
+	, monochrome = true, dryRun = false)
 //, tags = "@sanity"
 public class HYRTutorialsRunnerTest {
 
